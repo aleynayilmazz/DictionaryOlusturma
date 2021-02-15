@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DictionaryOlusturma
 {
-    //List<string> sehirler = new List<string>();
+ 
     class MyDictionary<T>
     {
         //ürün dizimiz ve elemanları geçici olarak tutacagımız dizi olusturulur.
