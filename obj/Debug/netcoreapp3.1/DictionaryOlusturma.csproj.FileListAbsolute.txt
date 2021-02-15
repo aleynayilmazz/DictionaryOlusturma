@@ -1,0 +1,13 @@
+C:\Users\aleyn\source\repos\DictionaryOlusturma\DictionaryOlusturma\obj\Debug\netcoreapp3.1\DictionaryOlusturma.csprojAssemblyReference.cache
+C:\Users\aleyn\source\repos\DictionaryOlusturma\DictionaryOlusturma\obj\Debug\netcoreapp3.1\DictionaryOlusturma.AssemblyInfoInputs.cache
+C:\Users\aleyn\source\repos\DictionaryOlusturma\DictionaryOlusturma\obj\Debug\netcoreapp3.1\DictionaryOlusturma.AssemblyInfo.cs
+C:\Users\aleyn\source\repos\DictionaryOlusturma\DictionaryOlusturma\obj\Debug\netcoreapp3.1\DictionaryOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\aleyn\source\repos\DictionaryOlusturma\DictionaryOlusturma\bin\Debug\netcoreapp3.1\DictionaryOlusturma.exe
+C:\Users\aleyn\source\repos\DictionaryOlusturma\DictionaryOlusturma\bin\Debug\netcoreapp3.1\DictionaryOlusturma.deps.json
+C:\Users\aleyn\source\repos\DictionaryOlusturma\DictionaryOlusturma\bin\Debug\netcoreapp3.1\DictionaryOlusturma.runtimeconfig.json
+C:\Users\aleyn\source\repos\DictionaryOlusturma\DictionaryOlusturma\bin\Debug\netcoreapp3.1\DictionaryOlusturma.runtimeconfig.dev.json
+C:\Users\aleyn\source\repos\DictionaryOlusturma\DictionaryOlusturma\bin\Debug\netcoreapp3.1\DictionaryOlusturma.dll
+C:\Users\aleyn\source\repos\DictionaryOlusturma\DictionaryOlusturma\bin\Debug\netcoreapp3.1\DictionaryOlusturma.pdb
+C:\Users\aleyn\source\repos\DictionaryOlusturma\DictionaryOlusturma\obj\Debug\netcoreapp3.1\DictionaryOlusturma.dll
+C:\Users\aleyn\source\repos\DictionaryOlusturma\DictionaryOlusturma\obj\Debug\netcoreapp3.1\DictionaryOlusturma.pdb
+C:\Users\aleyn\source\repos\DictionaryOlusturma\DictionaryOlusturma\obj\Debug\netcoreapp3.1\DictionaryOlusturma.genruntimeconfig.cache
